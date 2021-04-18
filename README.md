@@ -25,5 +25,5 @@
     - 유저 단에서 봇을 실행시켜 이미지를 가지고 온 뒤 서버로 전송 
 
 # 참여자
-- 조강민
-- 송진영
+- [조강민](https://github.com/gangmin1996)
+- [송진영](https://github.com/diligejy)
