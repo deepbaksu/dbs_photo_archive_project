@@ -19,7 +19,7 @@
 # 개발 진행 내역
 ### 4.18
   - 이미지 파일 저장 방법 정리 - DB에 바이너리로 저장하지 않고, 폴더에 파일을 저장한 후 path를 불러와서 사용
-  - 외부 컴퓨터에서 static 파일을 불러오는 방법 - Node.js 코드
+  - 외부 컴퓨터에서 static 파일을 불러오는 방법 - [Node.js 코드](https://www.geeksforgeeks.org/how-to-fetch-images-from-node-server/)
   - 슬랙에서 이미지 가져오는 방법 Research
     - 크롤링 vs 봇 -> 봇으로 (크롤링은 매번 유저 인증, 보안 문제가 있음)
     - 유저 단에서 봇을 실행시켜 이미지를 가지고 온 뒤 서버로 전송 
